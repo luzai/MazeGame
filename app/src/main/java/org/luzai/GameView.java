@@ -60,7 +60,7 @@ public class GameView extends View implements SensorEventListener{
         totalCellWidth = cellWidth + lineWidth;
         cellHeight = (height - ((float) mazeSizeY * lineWidth)) / mazeSizeY;
         totalCellHeight = cellHeight + lineWidth;
-        red.setTextSize(cellHeight * 0.75f);
+        red.setTextSize(cellHeight * 0.25f);
         super.onSizeChanged(w, h, oldw, oldh);
     }
 
@@ -97,10 +97,10 @@ public class GameView extends View implements SensorEventListener{
         //draw the ball
         canvas.drawCircle((currentX * totalCellWidth) + (cellWidth / 2),   //x of center
                 (currentY * totalCellHeight) + (cellWidth / 2),  //y of center
-                (cellWidth * 0.45f),                           //radius
+                (cellWidth * 0.25f),                           //radius
                 red);
         //draw the finishing point indicator
-        canvas.drawText("F",
+        canvas.drawText("GO!",
                 (mazeFinishX * totalCellWidth) + (cellWidth * 0.25f),
                 (mazeFinishY * totalCellHeight) + (cellHeight * 0.75f),
                 red);

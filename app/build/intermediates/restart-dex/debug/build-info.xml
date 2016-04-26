@@ -4,21 +4,51 @@
     api-level="19"
     density="mdpi"
     format="7"
-    timestamp="115075770838055" >
+    timestamp="115962481960550"
+    verifier="COMPATIBLE" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="148" />
     <task
         name="instant-run-dex"
-        duration="0" />
+        duration="915" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="26" />
     <task
         name="verifier"
-        duration="0" />
+        duration="7" />
 
-    <build timestamp="115075770838055" />
+    <artifact
+        location="C:\luzai\AndroidStudioProjects\MazeGame1\app\build\intermediates\reload-dex\debug\classes.dex"
+        type="RELOAD_DEX" />
+
+    <build timestamp="115866313959972" >
+        <artifact
+            location="C:\luzai\AndroidStudioProjects\MazeGame1\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="115917804588096"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\luzai\AndroidStudioProjects\MazeGame1\app\build\intermediates\builds\debug\115917804588096\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="115948756761853"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\luzai\AndroidStudioProjects\MazeGame1\app\build\intermediates\builds\debug\115948756761853\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="115962481960550"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\luzai\AndroidStudioProjects\MazeGame1\app\build\intermediates\reload-dex\debug\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
 
 </instant-run>
