@@ -1,0 +1,197 @@
+[
+    {
+        "outputFile": "C:\\luzai\\AndroidStudioProjects\\MazeGame1\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 41,
+                    "endOffset": 92
+                },
+                "from": {
+                    "file": "C:\\luzai\\AndroidStudioProjects\\MazeGame1\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 1,
+                        "startOffset": 54,
+                        "endColumn": 38,
+                        "endOffset": 91
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 97,
+                    "endColumn": 38,
+                    "endOffset": 131
+                },
+                "from": {
+                    "file": "C:\\luzai\\AndroidStudioProjects\\MazeGame1\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 1,
+                        "startOffset": 94,
+                        "endColumn": 35,
+                        "endOffset": 128
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 136,
+                    "endColumn": 42,
+                    "endOffset": 174
+                },
+                "from": {
+                    "file": "C:\\luzai\\AndroidStudioProjects\\MazeGame1\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 1,
+                        "startOffset": 131,
+                        "endColumn": 39,
+                        "endOffset": 169
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 179,
+                    "endColumn": 46,
+                    "endOffset": 221
+                },
+                "from": {
+                    "file": "C:\\luzai\\AndroidStudioProjects\\MazeGame1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 46,
+                        "endOffset": 97
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 226,
+                    "endColumn": 41,
+                    "endOffset": 263
+                },
+                "from": {
+                    "file": "C:\\luzai\\AndroidStudioProjects\\MazeGame1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 41,
+                        "endOffset": 188
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 268,
+                    "endColumn": 48,
+                    "endOffset": 312
+                },
+                "from": {
+                    "file": "C:\\luzai\\AndroidStudioProjects\\MazeGame1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 102,
+                        "endColumn": 48,
+                        "endOffset": 146
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 317,
+                    "endColumn": 52,
+                    "endOffset": 365
+                },
+                "from": {
+                    "file": "C:\\luzai\\AndroidStudioProjects\\MazeGame1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 353,
+                        "endColumn": 52,
+                        "endOffset": 401
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 370,
+                    "endColumn": 55,
+                    "endOffset": 421
+                },
+                "from": {
+                    "file": "C:\\luzai\\AndroidStudioProjects\\MazeGame1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 297,
+                        "endColumn": 55,
+                        "endOffset": 348
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 426,
+                    "endColumn": 51,
+                    "endOffset": 473
+                },
+                "from": {
+                    "file": "C:\\luzai\\AndroidStudioProjects\\MazeGame1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 245,
+                        "endColumn": 51,
+                        "endOffset": 292
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 478,
+                    "endColumn": 51,
+                    "endOffset": 525
+                },
+                "from": {
+                    "file": "C:\\luzai\\AndroidStudioProjects\\MazeGame1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 193,
+                        "endColumn": 51,
+                        "endOffset": 240
+                    }
+                }
+            }
+        ]
+    }
+]

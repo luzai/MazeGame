@@ -1,0 +1,5 @@
+CHANGED,C:\luzai\AndroidStudioProjects\MazeGame1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\org\luzai\GameView$override.class
+CHANGED,C:\luzai\AndroidStudioProjects\MazeGame1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\org\luzai\Game$override.class
+CHANGED,C:\luzai\AndroidStudioProjects\MazeGame1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,C:\luzai\AndroidStudioProjects\MazeGame1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\org\luzai\GameView$2$override.class
+CHANGED,C:\luzai\AndroidStudioProjects\MazeGame1\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\org\luzai\GameView$1$override.class

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\luzai\\AndroidStudioProjects\\MazeGame1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\finish.xml",
+        "source": "C:\\luzai\\AndroidStudioProjects\\MazeGame1\\app\\src\\main\\res\\layout\\finish.xml"
+    },
+    {
+        "merged": "C:\\luzai\\AndroidStudioProjects\\MazeGame1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\luzai\\AndroidStudioProjects\\MazeGame1\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\luzai\\AndroidStudioProjects\\MazeGame1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\levels.xml",
+        "source": "C:\\luzai\\AndroidStudioProjects\\MazeGame1\\app\\src\\main\\res\\layout\\levels.xml"
+    }
+]
